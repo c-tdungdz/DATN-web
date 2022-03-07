@@ -1,0 +1,33 @@
+.tour {
+    background-color: #f1f1f1;
+    padding: 15px;
+}
+
+.tour img {
+    width: 100%;
+}
+
+.line-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+li {
+    padding: 5px 0px;
+}
+
+.cangiua {
+    line-height: 40px;
+}
+
+.khoangcach {
+    background-color: #fff;
+    height: 20px;
+    width: 100%;
+}
+
+.fa-star {
+    color: orange !important;
+}

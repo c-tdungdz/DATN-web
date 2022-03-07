@@ -1,0 +1,200 @@
+.ten {
+    width: 100%;
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.ma {
+    width: 100%;
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+
+.hinhanh img {
+    width: inherit;
+    height: 500px;
+}
+
+.hinhanh-ks {
+    width: 330px;
+    height: 200px;
+}
+
+.chitiet {
+    height: 500px;
+    padding: 10px;
+    background-color: #f1f1f1;
+}
+
+.ratings {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    direction: rtl;
+    text-align: left;
+}
+
+.fa-star {
+    position: relative;
+    line-height: 60px;
+    display: inline-block;
+    transition: color 0.2s ease;
+    color: orange;
+}
+
+#lh {
+    padding-bottom: 20px;
+}
+
+.start {
+    padding: 50px 0px;
+}
+
+.cangiua {
+    line-height: 40px;
+}
+
+.gioithieu {
+    background-color: #f1f1f1;
+}
+
+p {
+    padding: 15px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.halq {
+    padding-bottom: 20px;
+}
+
+.halq img {
+    width: 100%;
+}
+
+.halq-ks {
+    padding-bottom: 20px;
+}
+
+.halq-ks img {
+    width: 100%;
+}
+
+.menu-2 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+nav {
+    margin: 0 auto;
+}
+
+.menu-2 nav a {
+    color: black;
+    margin-right: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.active-2 {
+    width: auto;
+    border-bottom: 3px solid #00a8ff;
+}
+
+.phong {
+    background-color: #f1f1f1;
+    padding: 15px;
+}
+
+.phong img {
+    width: 100%;
+}
+
+li {
+    font-size: 15px;
+}
+
+.ratings {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    direction: rtl;
+    text-align: left;
+}
+
+.star {
+    position: relative;
+    line-height: 30px;
+    display: inline-block;
+    transition: color 0.2s ease;
+    color: #ffff
+}
+
+.star:before {
+    content: '\2605';
+    width: 20px;
+    height: 20px;
+    font-size: 30px;
+}
+
+.star:hover,
+.star.selected,
+.star:hover~.star,
+.star.selected~.star {
+    transition: color 0.8s ease;
+    color: orange;
+}
+
+.ratings-2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    direction: rtl;
+    text-align: left;
+}
+
+.star-2 {
+    position: relative;
+    line-height: 20px;
+    display: inline-block;
+    transition: color 0.2s ease;
+    color: orange
+}
+
+.star-2:before {
+    content: '\2605';
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+}
+
+.star-2:hover,
+.star-2.selected,
+.star-2:hover~.star,
+.star-2.selected~.star {
+    transition: color 0.8s ease;
+    color: orange;
+}
+
+.cmt .tencmt {
+    text-transform: uppercase;
+    font-size: 18;
+    font-weight: 600;
+}
+
+.cmtks .tencmt {
+    text-transform: uppercase;
+    font-size: 18;
+    font-weight: 600;
+}
+
+.nd-cmt {
+    font-size: 15;
+}
